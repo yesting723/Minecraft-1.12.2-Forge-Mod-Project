@@ -1,0 +1,16 @@
+[
+{
+  "modid": "the_endless_countryside",
+  "name": "The Endless Countryside",
+  "description": "A decoration mod for ",
+  "version": "0.0.1",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Yesting723"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
